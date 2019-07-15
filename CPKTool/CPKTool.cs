@@ -34,6 +34,8 @@ namespace CPKTool
             this.timer1.Tick += Timer1_Tick;
         }
 
+        //MK_第二次提交
+        //MK_第一次提交
         private string Path = string.Empty;
         private double cpkDef = 0.5;
         private TimeSpan timeSpan1 = new TimeSpan(0, 30, 0);
