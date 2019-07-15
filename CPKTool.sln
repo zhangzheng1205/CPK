@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPKTool", "CPKTool\CPKTool.csproj", "{EBB34789-9068-42DF-93C6-3349A672649C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB34789-9068-42DF-93C6-3349A672649C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB34789-9068-42DF-93C6-3349A672649C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB34789-9068-42DF-93C6-3349A672649C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB34789-9068-42DF-93C6-3349A672649C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8CC790F-CC46-4CEA-B40A-94573C05C1E4}
+	EndGlobalSection
+EndGlobal
