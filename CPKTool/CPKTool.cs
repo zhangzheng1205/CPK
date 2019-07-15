@@ -13,7 +13,6 @@ namespace CPKTool
 {
     public partial class CPKTool : Form
     {
-        //第二作者:Ensandy加入
         //签出分支_Reset_Keep_Remote_提交
         //重置_保存修改(已提交远程)一
 
