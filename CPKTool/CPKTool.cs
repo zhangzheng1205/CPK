@@ -34,6 +34,7 @@ namespace CPKTool
             this.timer1.Tick += Timer1_Tick;
         }
 
+        //MK作者加入,第一次更改
         //MK_第二次提交
         //MK_第一次提交
         private string Path = string.Empty;
