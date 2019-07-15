@@ -13,6 +13,9 @@ namespace CPKTool
 {
     public partial class CPKTool : Form
     {
+        //重置_保存修改(已提交远程)一
+
+        //重置_保存修改(未提交远程)二
         //重置_保存修改(未提交远程)一
 
         //第四次提交
